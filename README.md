@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on theoretical notions of explainability
 - 📫 How to reach me: matteo.rizzo.phd@gmail.com
 
-**LATEST PUBLICATION:** [https://ieeexplore.ieee.org/document/10264877](url)
+**MY LATEST PUBLICATION:** https://ieeexplore.ieee.org/document/10264877
 
 <!---
 matteo-rizzo/matteo-rizzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
